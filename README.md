@@ -89,7 +89,7 @@ Take a look at examples of how to:
 * [Write an Authorization Model](https://openfga.dev/api/service/#/Authorization%20Models/WriteAuthorizationModel)
 * [Write Relationship Tuples](https://openfga.dev/api/service/#/Relationship%20Tuples/Write)
 * [Check Relationships](https://openfga.dev/api/service/#/Relationship%20Queries/Check)
-* [Add authentication](https://openfga.dev/intro/setup-openfga#configuring-authentication)
+* [Add authentication](https://openfga.dev/docs/getting-started/setup-openfga#configuring-authentication)
 
 Don't hesitate to browse the official [Documentation](https://openfga.dev/), [API Reference](https://openfga.dev/api/service).
 
