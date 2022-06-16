@@ -104,8 +104,7 @@ The OpenFGA team will do its best to address all production issues with high pri
 
 See [CONTRIBUTING](https://github.com/openfga/.github/blob/main/CONTRIBUTING.md).
 
-[doc]: https://docs.openfga.dev
-[config-doc]: https://docs.openfga.dev/configuration
-[examples]: https://docs.openfga.dev/examples
-[api]: https://docs.openfga.dev/api
-[prod-checklist]: https://docs.openfga.dev/production-checklist
+[doc]: https://openfga.dev/docs
+[config-doc]: https://openfga.dev/docs/getting-started/setup-openfga
+[api]: https://openfga.dev/api/service
+[prod-checklist]: https://openfga.dev/docs/getting-started/setup-openfga#production-checklist
